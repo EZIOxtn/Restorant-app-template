@@ -15,7 +15,7 @@ A modern, animated restaurant application built using Java. This app is designed
 
 ## Demo
 
-![2024_12_15_18_23_21 (2)](https://github.com/user-attachments/assets/2af214ec-0b24-4d14-bdf6-dc06e2e8b824)
+![demo app](https://github.com/user-attachments/assets/2af214ec-0b24-4d14-bdf6-dc06e2e8b824)
 
 
 ## Installation

@@ -1,6 +1,7 @@
 # Restaurant App
 
-![Restaurant App](https://via.placeholder.com/1200x400?text=Restaurant+App+Logo)
+![burger](https://github.com/user-attachments/assets/f3d5be50-8683-4370-a53d-6b5271ff85a7)
+
 
 A modern, animated restaurant application built using Java. This app is designed to handle multiple restaurants, showcasing their menus in an interactive and visually appealing way with professional animations. 
 

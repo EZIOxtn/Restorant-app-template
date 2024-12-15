@@ -1,8 +1,11 @@
 # Restaurant App
 
+
 ![burger](https://github.com/user-attachments/assets/f3d5be50-8683-4370-a53d-6b5271ff85a7)
 
-
+![Platform](https://img.shields.io/badge/platform-Android-blue)  
+![Language](https://img.shields.io/badge/language-Java-orange)  
+![License](https://img.shields.io/badge/license-MIT-green)  
 A modern, animated restaurant application built using Java. This app is designed to handle multiple restaurants, showcasing their menus in an interactive and visually appealing way with professional animations. 
 
 > **Note**: This project is still under development, and not all features are fully implemented.

@@ -17,7 +17,11 @@ A modern, animated restaurant application built using Java. This app is designed
 - **Dynamic Menu Display**: Multiple cards for each restaurant, showcasing their menus.
 - **Professional Animations**: Smooth transitions and engaging visual effects.
 
-## Demo
+## Demo (Gif) (mp4)
+
+
+![demo app_mp4](https://github.com/user-attachments/assets/f918d8da-97b2-4d54-935d-99ce6721b979)
+
 
 ![demo app](https://github.com/user-attachments/assets/2af214ec-0b24-4d14-bdf6-dc06e2e8b824)
 
@@ -26,7 +30,7 @@ A modern, animated restaurant application built using Java. This app is designed
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/restaurant-app.git
+   git clone https://github.com/EZIOxtn/Restorant-app-template.git
    ```
 
 2. **Open the project in your IDE**:

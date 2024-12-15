@@ -19,8 +19,10 @@ A modern, animated restaurant application built using Java. This app is designed
 
 ## Demo (Gif) (mp4)
 
-
-![demo app_mp4](https://github.com/user-attachments/assets/f918d8da-97b2-4d54-935d-99ce6721b979)
+<video width="640" height="360" controls>
+  <source src="https://github.com/user-attachments/assets/f918d8da-97b2-4d54-935d-99ce6721b979" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ![demo app](https://github.com/user-attachments/assets/2af214ec-0b24-4d14-bdf6-dc06e2e8b824)

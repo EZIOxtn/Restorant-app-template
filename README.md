@@ -44,15 +44,14 @@ restaurant-app/
 ├── src/
 │   ├── main/
 │   │   ├── java/
-│   │   │   ├── com/yourname/restaurantapp/
-│   │   │   │   ├── Main.java
-│   │   │   │   ├── models/
-│   │   │   │   ├── services/
-│   │   │   │   ├── ui/
-│   │   │   │   └── utils/
-│   │   ├── resources/
-│   │       ├── images/
-│   │       └── styles/
+│   │   │   ├── com/resto/myapplication/
+│   │   │   │   ├── AESUtil.java
+│   │   │   │   ├── Cartlogic.java
+│   │   │   │   ├── FoodCardView.java
+│   │   │   │   ├── GroupRestorantFragment.java
+│   │   │   │   ├── IntroPagerAdapter.java
+│   │   │   │   ├── ... .java
+...
 ├── README.md
 └── .gitignore
 ```
@@ -80,11 +79,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback:
-
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+...
 
 ---
 
